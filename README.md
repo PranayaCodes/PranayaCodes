@@ -1,45 +1,45 @@
-<!-- HEADER -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0030,60:1a0050,100:000000&height=250&section=header&text=PRANAYA&fontSize=90&fontColor=bf5af2&animation=fadeIn&fontAlignY=55&desc=◈%20crafting%20code%20◈%20breaking%20limits%20◈%20just%20starting%20◈&descSize=16&descAlignY=78&descColor=9d4edd&stroke=bf5af2&strokeWidth=2" width="100%"/>
-</div>
-
-<!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=800&color=BF5AF2&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+Nepal;%E2%9A%A1+Building+things+that+matter;%F0%9F%94%A5+Open+Source+Contributor;%F0%9F%A7%A0+Lifelong+Learner;%E2%9C%A8+You+will+NEVER+be+ready.+JUST+START.)](https://git.io/typing-svg)
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0a0018,50:150035,75:0a0018,100:000000&height=280&section=header&text=PRANAYA&fontSize=100&fontColor=bf5af2&animation=fadeIn&fontAlignY=55&desc=◈%20machine%20learning%20developer%20%7C%20from%20the%20himalayas%20◈&descSize=15&descAlignY=75&descColor=6a2fa5&stroke=bf5af2&strokeWidth=3"/>
 
-</div>
+<!-- TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=1000&color=BF5AF2&center=true&vCenter=true&width=800&lines=〔+Machine+Learning+Developer+%7C+Nepal+🌏+〕;〔+train+→+evaluate+→+deploy+→+repeat+〕;〔+turning+data+into+intelligence+🧠+〕;〔+you+will+NEVER+be+ready.+JUST+START.+⚡+〕)](https://git.io/typing-svg)
 
-<!-- BADGES -->
-<div align="center">
+<!-- STATUS BADGES -->
+![Status](https://img.shields.io/badge/STATUS-TRAINING_SOMETHING_LEGENDARY-bf5af2?style=for-the-badge&labelColor=000000)
+![Available](https://img.shields.io/badge/AVAILABLE-FOR_COLLABS-28c864?style=for-the-badge&labelColor=000000)
+![Location](https://img.shields.io/badge/LOCATION-NEPAL_🌏-orange?style=for-the-badge&labelColor=000000)
 
-![Profile Views](https://komarev.com/ghpvc/?username=PranayaCodes&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/PranayaCodes?style=for-the-badge&color=blueviolet&labelColor=000000)
-![GitHub stars](https://img.shields.io/github/stars/PranayaCodes?style=for-the-badge&color=blueviolet&labelColor=000000)
+<!-- STATS ROW -->
+![Profile Views](https://komarev.com/ghpvc/?username=PranayaCodes&color=bf5af2&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/PranayaCodes?style=for-the-badge&color=bf5af2&labelColor=000000&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/PranayaCodes?style=for-the-badge&color=bf5af2&labelColor=000000&label=STARS)
 
 </div>
 
 ---
 
-<!-- ABOUT ME + GIF -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### ⚡ `whoami`
+### `$ cat identity.py`
 
-```typescript
-const PRANAYA = {
-  name        : "Pranaya",
-  alias       : "PranayaCodes",
-  location    : "🌏 Nepal",
-  role        : "Full Stack Developer",
-  building    : "Something the world hasn't seen yet 🔥",
-  philosophy  : "You will never be ready. Just START.",
-  learning    : ["System Design", "Cloud", "AI/ML"],
-  hobbies     : ["Coding 💻", "Coffee ☕", "Breaking things 🔨"],
-  openTo      : ["Collaborations", "Open Source", "New Ideas"],
-  funFact     : "I debug in my dreams 💭",
-  coffee      : Infinity  // non-negotiable
-};
+```python
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Machine Learning Developer from the Himalayas 🏔️
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+pranaya = {
+    "alias"     : "PranayaCodes",
+    "origin"    : "Nepal 🌏",        # coding from the Himalayas
+    "role"      : "ML Developer & Enthusiast",
+    "mission"   : "train → evaluate → deploy → repeat",
+    "obsessed"  : ["Neural Networks", "Deep Learning", "LLMs"],
+    "building"  : "🔥 models that actually work",
+    "open_to"   : ["research collabs", "open source", "chaos"],
+    "coffee"    : float("inf"),      # ← non-negotiable
+    "mantra"    : "never be ready. JUST. START.",
+}
 ```
 
 <br clear="right"/>
@@ -47,122 +47,108 @@ const PRANAYA = {
 ---
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
 
 ---
 
-### 🛠️ Tech Arsenal
+### `$ cat ml_arsenal.config`
 
 <div align="center">
 
-**◈ Languages ◈**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**◈ Frontend ◈**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-
-**◈ Backend & Database ◈**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**◈ DevOps & Tools ◈**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+| Layer | Stack |
+|:---:|:---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **ML / DL** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Data** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white) |
+| **MLOps** | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| **Exploring** | ![LLMs](https://img.shields.io/badge/LLMs-bf5af2?style=flat-square&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-7b2fff?style=flat-square&logo=openai&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-ff6bff?style=flat-square&logo=opencv&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-28c864?style=flat-square&logo=python&logoColor=white) |
 
 </div>
 
 ---
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
----
-
-### 📊 GitHub Stats
+### `$ git log --graph --oneline`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PranayaCodes&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=bf5af2&icon_color=bf5af2&text_color=c9d1d9&bg_color=00000000&ring_color=bf5af2" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayaCodes&layout=compact&theme=transparent&hide_border=true&title_color=bf5af2&text_color=c9d1d9&bg_color=00000000" width="41%" />
+```
+* ██████████████████████  feat: trained model with 98% accuracy 🧠
+* ████████████████████──  fix: loss finally converging at epoch 42
+* ██████████████████────  exp: tried new architecture at 2am
+* ████████████──────────  data: cleaned 50k rows of messy data
+* ██████████────────────  feat: deployed ML model to production 🚀
+```
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=PranayaCodes&theme=transparent&hide_border=true&ring=bf5af2&fire=ff6bff&currStreakNum=bf5af2&sideNums=bf5af2&currStreakLabel=9d4edd&sideLabels=9d4edd&dates=6a4a8a&background=00000000" width="70%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranayaCodes&bg_color=000000&color=bf5af2&line=7b2fff&point=ff6bff&area=true&area_color=bf5af2&hide_border=true&custom_title=◈%20Contribution%20Graph%20◈&title_color=bf5af2&radius=6" width="100%"/>
 
 </div>
 
 ---
 
-### 🏆 Trophy Cabinet
+### `$ model.evaluate(github_stats)`
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PranayaCodes&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api?username=PranayaCodes&show_icons=true&hide_border=true&count_private=true&title_color=bf5af2&icon_color=ff6bff&text_color=c9a8ff&bg_color=000000&ring_color=bf5af2&include_all_commits=true&custom_title=◈+PranayaCodes+Stats+◈" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayaCodes&hide_border=true&title_color=bf5af2&text_color=c9a8ff&bg_color=000000&layout=compact&langs_count=8&custom_title=◈+Languages+◈" width="41%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=PranayaCodes&hide_border=true&background=000000&ring=bf5af2&fire=ff6bff&currStreakNum=ffffff&sideNums=bf5af2&currStreakLabel=bf5af2&sideLabels=6a2fa5&dates=4a3a6a&stroke=1e0e3a" width="60%"/>
 
 </div>
 
 ---
 
-### 📈 Contribution Graph
+### `$ show-trophies --theme=dark`
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PranayaCodes&bg_color=000000&color=bf5af2&line=7b2fff&point=ff6bff&area=true&area_color=bf5af2&hide_border=true&custom_title=PranayaCodes%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=PranayaCodes&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-### 🐍 Watch My Contributions Get Eaten
+### `$ snake --watch contributions`
 
 <div align="center">
 
-![snake gif](https://github.com/PranayaCodes/PranayaCodes/blob/output/github-contribution-grid-snake-dark.svg)
+![snake](https://github.com/PranayaCodes/PranayaCodes/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-### 💬 Random Dev Quote
+### `$ curl wttr.in/Nepal`
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
+```
+╔══════════════════════════════════════════════════════════════╗
+║  📍 Kathmandu, Nepal  🌡️  GPU Temp: 100°C (always training)  ║
+║  🏔️  Coding altitude: 1,400m above sea level                 ║
+║  🧠  Current status: TRAINING A NEW MODEL                    ║
+║  ☕  Fuel level:     ████████░░  80%                         ║
+║  📉  Loss curve:     ██████████  CONVERGING                  ║
+║  🎯  Accuracy:       ██████████  GETTING THERE               ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-### 🌐 Connect & Collab
+### `$ connect --channels`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PranayaCodes)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PranayaCodes)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23BF5AF2.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://PranayaCodes.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PranayaCodes)
+[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranaya-khadka-142270336/)
+[![Portfolio](https://img.shields.io/badge/◈_Portfolio-bf5af2?style=for-the-badge&logo=vercel&logoColor=white)](https://developer.pranayakhadka.com.np)
 
 </div>
 
@@ -170,11 +156,12 @@ const PRANAYA = {
 
 <div align="center">
 
-### 💜 Support My Work
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      "you will never be ready — JUST START" ⚡
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/PranayaCodes)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/PranayaCodes)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0040,100:000000&height=120&section=footer&text=⚡%20just%20start%20⚡&fontSize=20&fontColor=bf5af2&animation=twinkling&fontAlignY=70" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0018,100:000000&height=100&section=footer&text=PranayaCodes&fontSize=14&fontColor=2a1a4a&animation=twinkling&fontAlignY=65"/>
 
 </div>
