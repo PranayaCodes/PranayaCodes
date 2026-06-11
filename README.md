@@ -4,6 +4,8 @@
 &nbsp;
 ![followers](https://img.shields.io/github/followers/PranayaCodes?style=flat&color=82B1FF&labelColor=111111&label=followers)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B8A&width=500&lines=ML+Engineer+in+the+making;Builder+%7C+Systems+Thinker;Deep+Learning+%26+NLP+Explorer;Math+first%2C+frameworks+second" alt="Typing SVG" /></a>
+
 Machine Learning Developer & Enthusiast from Kathmandu, Nepal. I work primarily with Python and deep learning frameworks, focused on building models that actually solve real problems — not just notebooks that collect dust. Self-taught, open-source curious, and fascinated by how machines learn, perceive, and reason.
 
 The math underneath ML — linear algebra, probability, optimization — is what keeps me going.
@@ -58,8 +60,11 @@ The math underneath ML — linear algebra, probability, optimization — is what
 
 ### GitHub Stats
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PranayaCodes&show_icons=true&theme=transparent&hide_border=true&title_color=FF6B8A&icon_color=82B1FF&text_color=c9d1d9&bg_color=00000000" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayaCodes&layout=compact&theme=transparent&hide_border=true&title_color=FF6B8A&text_color=c9d1d9&bg_color=00000000" height="165" />
+</p>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PranayaCodes&theme=dark&hide_border=true&background=00000000&ring=FF6B8A&fire=FF1744&currStreakNum=FF6B8A&sideNums=82B1FF&currStreakLabel=FF6B8A&sideLabels=69F0AE&dates=888888)](https://git.io/streak-stats)
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PranayaCodes&bg_color=0d1117&color=FF6B8A&line=AA00FF&point=00C853&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PranayaCodes&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
