@@ -1,4 +1,4 @@
-# Pranaya Khadka <img src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" width="80px" />
+# Pranaya Khadkaa <img src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" width="80px" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=PranayaCodes&label=views&color=FF6B8A&style=flat)
 &nbsp;
