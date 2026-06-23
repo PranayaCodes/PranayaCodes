@@ -65,6 +65,20 @@ The math underneath ML — linear algebra, probability, optimization — is what
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayaCodes&layout=compact&theme=transparent&hide_border=true&title_color=FF6B8A&text_color=c9d1d9&bg_color=00000000" height="165" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PranayaCodes&theme=dark&hide_border=true&background=00000000&ring=FF6B8A&fire=FF1744&currStreakNum=FF6B8A&sideNums=82B1FF&currStreakLabel=FF6B8A&sideLabels=69F0AE&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PranayaCodes&theme=dark&hide_border=true&background=00000000&ring=FF6B8A&fire=FF1744&currStreakNum=FF6B8A&sideNums=82B1FF&currStreakLabel=FF6B8A&sideLabels=69F0AE&dates=888888)](https://git.io/streak-stats)
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PranayaCodes&bg_color=0d1117&color=FF6B8A&line=AA00FF&point=00C853&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=PranayaCodes&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+</p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!-- Contribution snake — auto-generated nightly, see .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayaCodes/PranayaCodes/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayaCodes/PranayaCodes/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/PranayaCodes/PranayaCodes/output/github-contribution-grid-snake.svg" />
+</picture>
