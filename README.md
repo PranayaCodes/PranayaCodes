@@ -1,4 +1,4 @@
-# Pranaya Khadka <img src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" width="80px" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B8A,100:82B1FF&height=180&section=header&text=Pranaya%20Khadka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Developer%20%7C%20Builder%20%7C%20Digital%20Pranaya&descAlignY=58&descSize=18" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=PranayaCodes&label=views&color=FF6B8A&style=flat)
 &nbsp;
@@ -10,7 +10,7 @@ Machine Learning Developer & Enthusiast from Kathmandu, Nepal. I work primarily 
 
 The math underneath ML — linear algebra, probability, optimization — is what keeps me going.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B8A,100:82B1FF&height=3" />
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
@@ -28,7 +28,7 @@ The math underneath ML — linear algebra, probability, optimization — is what
 
 <br clear="right"/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:82B1FF,100:FF6B8A&height=3" />
 
 ### Tech Stack
 
@@ -49,14 +49,14 @@ The math underneath ML — linear algebra, probability, optimization — is what
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B8A,100:82B1FF&height=3" />
 
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranaya-khadka-142270336/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://developer.pranayakhadka.com.np)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:82B1FF,100:FF6B8A&height=3" />
 
 ### GitHub Stats
 
@@ -82,3 +82,9 @@ The math underneath ML — linear algebra, probability, optimization — is what
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayaCodes/PranayaCodes/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/PranayaCodes/PranayaCodes/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<br/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1500&color=82B1FF&width=600&lines=Currently+grinding+through+Algorithm+Analysis+%26+OS;Building+a+FIFA+2026+World+Cup+predictor+with+XGBoost;Open+to+ML+%2B+digital+marketing+collabs" alt="status typing" /></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:82B1FF,100:FF6B8A&height=120&section=footer" />
