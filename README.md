@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B8A,100:82B1FF&height=180&section=header&text=Pranaya%20Khadka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Developer%20%7C%20Builder%20%7C%20Digital%20Pranaya&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B8A,100:82B1FF&height=180&section=header&text=Pranaya%20Khadka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Developer%20%7C%20Builder&descAlignY=58&descSize=18" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=PranayaCodes&label=views&color=FF6B8A&style=flat)
 &nbsp;
 ![followers](https://img.shields.io/github/followers/PranayaCodes?style=flat&color=82B1FF&labelColor=111111&label=followers)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B8A&width=500&lines=ML+Engineer+in+the+making;Builder+%7C+Systems+Thinker;Deep+Learning+%26+NLP+Explorer;Math+first%2C+frameworks+second" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B8A&width=500&lines=Machine+Learning+%26+Deep+Learning;Systems-Minded+Builder;NLP+%26+Applied+AI+Explorer;Math+First%2C+Frameworks+Second" alt="Typing SVG" /></a>
 
-Machine Learning Developer & Enthusiast from Kathmandu, Nepal. I work primarily with Python and deep learning frameworks, focused on building models that actually solve real problems — not just notebooks that collect dust. Self-taught, open-source curious, and fascinated by how machines learn, perceive, and reason.
+Machine Learning Developer based in Kathmandu, Nepal, working primarily with Python and modern deep learning frameworks. I focus on building models that solve real problems, with a particular interest in NLP, applied AI, and the systems that make ML work at scale.
 
-The math underneath ML — linear algebra, probability, optimization — is what keeps me going.
+Linear algebra, probability, and optimization are the foundations I keep coming back to — the better I understand the math, the better the models get.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B8A,100:82B1FF&height=3" />
 
@@ -16,10 +16,10 @@ The math underneath ML — linear algebra, probability, optimization — is what
 
 **What I'm up to**
 
-- Deep diving into Deep Learning and NLP
-- Exploring LLMs, RAG pipelines, and Computer Vision
-- Building ML projects that go beyond tutorials
-- Learning the systems and math that power it all
+- Building applied ML projects — from predictive modeling to NLP and computer vision
+- Studying the math and systems that power deep learning, not just the libraries
+- Exploring LLMs, RAG pipelines, and retrieval-based architectures
+- Currently balancing this with a heavy academic course load in algorithms and operating systems
 
 **Reach me**
 
@@ -85,6 +85,6 @@ The math underneath ML — linear algebra, probability, optimization — is what
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1500&color=82B1FF&width=600&lines=Currently+grinding+through+Algorithm+Analysis+%26+OS;Building+a+FIFA+2026+World+Cup+predictor+with+XGBoost;Open+to+ML+%2B+digital+marketing+collabs" alt="status typing" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1500&color=82B1FF&width=600&lines=Currently+building+a+World+Cup+2026+match+predictor+(XGBoost+%2B+Monte+Carlo);Deepening+my+grasp+of+algorithms+%26+operating+systems;Always+up+for+a+conversation+about+ML+or+systems+design" alt="status typing" /></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:82B1FF,100:FF6B8A&height=120&section=footer" />
