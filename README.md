@@ -3,6 +3,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=PranayaCodes&label=views&color=FF6B8A&style=flat)
 &nbsp;
 ![followers](https://img.shields.io/github/followers/PranayaCodes?style=flat&color=82B1FF&labelColor=111111&label=followers)
+&nbsp;
+![Status](https://img.shields.io/badge/status-open%20to%20opportunities-success?style=flat&labelColor=111111)
+&nbsp;
+![Location](https://img.shields.io/badge/based%20in-Kathmandu%2C%20Nepal-informational?style=flat&labelColor=111111&color=82B1FF)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B8A&width=500&lines=Machine+Learning+%26+Deep+Learning;Systems-Minded+Builder;NLP+%26+Applied+AI+Explorer;Math+First%2C+Frameworks+Second" alt="Typing SVG" /></a>
 
@@ -11,8 +15,6 @@ Machine Learning Developer based in Kathmandu, Nepal, working primarily with Pyt
 Linear algebra, probability, and optimization are the foundations I keep coming back to — the better I understand the math, the better the models get.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B8A,100:82B1FF&height=3" />
-
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
 **What I'm up to**
 
@@ -25,8 +27,6 @@ Linear algebra, probability, and optimization are the foundations I keep coming 
 
 - Portfolio &nbsp; [developer.pranayakhadka.com.np](https://developer.pranayakhadka.com.np)
 - LinkedIn &nbsp; [pranaya-khadka-142270336](https://www.linkedin.com/in/pranaya-khadka-142270336/)
-
-<br clear="right"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:82B1FF,100:FF6B8A&height=3" />
 
@@ -61,6 +61,20 @@ Linear algebra, probability, and optimization are the foundations I keep coming 
 ![VS Code](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B8A,100:82B1FF&height=3" />
+
+### Featured Projects
+
+**FIFA World Cup 2026 Predictor**
+A Streamlit app that forecasts match outcomes using an XGBoost model trained on historical international results, with Monte Carlo simulation to project tournament-wide win probabilities. Includes a custom dark-themed UI with glassmorphism styling.
+`Python` `XGBoost` `Streamlit` `Monte Carlo Simulation`
+
+**This Profile, Automated**
+This README itself runs on GitHub Actions — a nightly job regenerates the contribution snake animation, and a second workflow keeps the WakaTime coding-activity stats in sync automatically.
+`GitHub Actions` `CI/CD` `Automation`
+
+*More projects on the way as coursework wraps up — check [my repositories](https://github.com/PranayaCodes?tab=repositories) for the latest.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:82B1FF,100:FF6B8A&height=3" />
 
 ### Connect
 
