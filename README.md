@@ -81,7 +81,7 @@ Linear algebra, probability, and optimization are the foundations I keep coming 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PranayaCodes&bg_color=0d1117&color=FF6B8A&line=AA00FF&point=00C853&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=PranayaCodes&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4&rank=SECRET,-SSS,SS,-S,AAA,-AA,A,-B,-C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PranayaCodes&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4&rank=SECRET,-SSS,SS,-S,AAA,-AA,A,-B,-C" />
 </p>
 
 <!--START_SECTION:waka-->
