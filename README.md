@@ -62,20 +62,6 @@ Linear algebra, probability, and optimization are the foundations I keep coming 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B8A,100:82B1FF&height=3" />
 
-### Featured Projects
-
-**FIFA World Cup 2026 Predictor**
-A Streamlit app that forecasts match outcomes using an XGBoost model trained on historical international results, with Monte Carlo simulation to project tournament-wide win probabilities. Includes a custom dark-themed UI with glassmorphism styling.
-`Python` `XGBoost` `Streamlit` `Monte Carlo Simulation`
-
-**This Profile, Automated**
-This README itself runs on GitHub Actions — a nightly job regenerates the contribution snake animation, and a second workflow keeps the WakaTime coding-activity stats in sync automatically.
-`GitHub Actions` `CI/CD` `Automation`
-
-*More projects on the way as coursework wraps up — check [my repositories](https://github.com/PranayaCodes?tab=repositories) for the latest.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:82B1FF,100:FF6B8A&height=3" />
-
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranaya-khadka-142270336/)
@@ -95,7 +81,7 @@ This README itself runs on GitHub Actions — a nightly job regenerates the cont
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PranayaCodes&bg_color=0d1117&color=FF6B8A&line=AA00FF&point=00C853&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=PranayaCodes&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PranayaCodes&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4&rank=SECRET,-SSS,SS,-S,AAA,-AA,A,-B,-C" />
 </p>
 
 <!--START_SECTION:waka-->
